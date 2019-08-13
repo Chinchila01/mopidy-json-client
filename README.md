@@ -34,7 +34,7 @@ To ilustrate the use of the module, check in the examples folder:
 This module is not yet upload to PyPI repository. I'm looking forward to it in a near future.
 
 Install by running:
-- `sudo pip install https://github.com/ismailof/mopidy-json-client/archive/master.zip`
+- `sudo pip install https://github.com/Chinchila01/mopidy-json-client/archive/master.zip`
 
 or
 - `git clone https://github.com/ismailof/mopidy-json-client`
